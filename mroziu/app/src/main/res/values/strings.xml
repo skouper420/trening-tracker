@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Trening Tracker</string>
+    
+    <!-- Home Screen -->
+    <string name="welcome_title">Witaj w Trening Tracker!</string>
+    <string name="choose_option">Wybierz jedną z opcji poniżej:</string>
+    
+    <!-- Menu Items -->
+    <string name="start_workout">Rozpocznij Trening</string>
+    <string name="start_workout_desc">Zacznij nową sesję treningową</string>
+    <string name="exercises">Ćwiczenia</string>
+    <string name="exercises_desc">Zarządzaj swoimi ćwiczeniami</string>
+    <string name="workout_plans">Plany Treningowe</string>
+    <string name="workout_plans_desc">Twórz i edytuj plany treningowe</string>
+    <string name="workout_history">Historia Treningów</string>
+    <string name="workout_history_desc">Przeglądaj poprzednie treningi</string>
+    <string name="body_measurements">Pomiary Ciała</string>
+    <string name="body_measurements_desc">Śledź swoje postępy</string>
+    <string name="settings">Ustawienia</string>
+    <string name="settings_desc">Konfiguracja aplikacji</string>
+    
+    <!-- Common -->
+    <string name="back">Wstecz</string>
+    <string name="save">Zapisz</string>
+    <string name="cancel">Anuluj</string>
+    <string name="delete">Usuń</string>
+    <string name="edit">Edytuj</string>
+    <string name="add">Dodaj</string>
+    <string name="search">Szukaj</string>
+    
+    <!-- Exercise Related -->
+    <string name="exercise_name">Nazwa ćwiczenia</string>
+    <string name="with_weight">Z obciążeniem</string>
+    <string name="without_weight">Bez obciążenia</string>
+    <string name="add_exercise">Dodaj ćwiczenie</string>
+    <string name="search_exercises">Szukaj ćwiczeń...</string>
+    
+    <!-- Workout Related -->
+    <string name="workout_name">Nazwa treningu</string>
+    <string name="workout_name_optional">Nazwa treningu (opcjonalnie)</string>
+    <string name="start_workout_button">Rozpocznij Trening</string>
+    <string name="finish_workout">Zakończ trening</string>
+    <string name="finish_workout_confirm">Czy na pewno chcesz zakończyć trening?</string>
+    <string name="selected_exercises">Wybrane ćwiczenia</string>
+    <string name="reps">Powtórzenia</string>
+    <string name="weight_kg">Waga (kg)</string>
+    <string name="sets">Serie</string>
+    <string name="add_set">Dodaj serię</string>
+    
+    <!-- Measurements -->
+    <string name="weight">Waga</string>
+    <string name="waist">Talia</string>
+    <string name="chest">Klatka piersiowa</string>
+    <string name="biceps">Biceps</string>
+    <string name="forearm">Przedramię</string>
+    <string name="thigh">Udo</string>
+    <string name="calf">Łydka</string>
+    
+</resources>
